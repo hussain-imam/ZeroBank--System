@@ -1,0 +1,20 @@
+{
+    " 1111": {
+        "name": "kp shah",
+        "age": " 33",
+        "CNIC": " 1111",
+        "balance": 73166.0
+    },
+    " 2222": {
+        "name": "salar haider",
+        "age": " 56",
+        "CNIC": " 2222",
+        "balance": 45677.0
+    },
+    " 4444": {
+        "name": "Naqash Haider",
+        "age": " 22",
+        "CNIC": " 4444",
+        "balance": 34567.0
+    }
+}
